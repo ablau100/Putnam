@@ -1,4 +1,14 @@
-import java.math.*;
+/*Factorial Products
+ * 
+ * This program takes in a rational number from the user in the form of a numerator and denominator. 
+ * It returns the rational number expressed as a product of prime factorials divided by a product of prime factorials.
+
+Original Question: Problem B1 from 70th Annual William Lowell Putnam Mathematical Competition (2010).
+Show that every positive rational number can be written as a quotient of products of factorials of (not necessarily distinct) primes. 
+For example,
+9/10 = (2!·5!) / (3!·3!·3!).
+
+ */
 import java.util.Scanner;
 import java.util.ArrayList;
 
